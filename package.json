@@ -1,14 +1,14 @@
 {
   "name": "exam111-test-firstapp",
   "main": "./lib/exam111-test-firstapp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
-  "keywords": [
+  "keywords": [ "test", "example", "firstapp", "x123x"
   ],
   "activationCommands": {
     "atom-workspace": "exam111-test-firstapp:toggle"
   },
-  "repository": "https://github.com/atom/exam111-test-firstapp",
+  "repository": "https://github.com/chaipat/exam111-test-firstapp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
