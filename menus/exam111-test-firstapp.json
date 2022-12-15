@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle exam111-test-firstapp",
+        "command": "exam111-test-firstapp:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "exam111-test-firstapp",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "exam111-test-firstapp:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
